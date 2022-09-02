@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>07.jpg</filename>
+	<path>C:\Users\NIDHI\Desktop\images\07.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>16</ymin>
+			<xmax>176</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>
