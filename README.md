@@ -12,7 +12,7 @@ models.
 This project is trained solely for small dataset of class dog
 
 <p align="center">
-  <img src="image.jpeg" width=140 height=195>
+  <img src="result_19.png" width=140 height=195>
 </p>
 
 
