@@ -15,5 +15,20 @@ This project is trained solely for small dataset of class dog
   <img src="result_19.png" width=140 height=195>
 </p>
 
+### Tensorflow 2.x
+Here I particularly used ssd_resnet101_v1_fpn_640x640_coco17_tpu-8.tar.gz 
+But a model of own choice can be used from model zoo
+*   <a href='g3doc/tf2_detection_zoo.md'>
+        TensorFlow 2 Model Zoo</a><br>
+        
+<h2>Links:<img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 64> </h2>
+ Collaboratory link:
+https://colab.research.google.com/drive/1bBMWKeAUsNU3In-MrqhCvQBZDktJpRCM?usp=sharing <br>
+Drive Link with all the files and dataset used:
+https://drive.google.com/drive/folders/1ecJA16_up1alKoik0mSzQimf39yN_zBU?usp=sharing
 
-https://colab.research.google.com/drive/1bBMWKeAUsNU3In-MrqhCvQBZDktJpRCM?usp=sharing
+
+<h2>References:</h2>
+Documentation:https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html
+
+<h2>Report</h2>
