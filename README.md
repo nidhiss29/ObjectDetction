@@ -32,3 +32,4 @@ https://drive.google.com/drive/folders/1ecJA16_up1alKoik0mSzQimf39yN_zBU?usp=sha
 Documentation:https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html
 
 <h2>Report</h2>
+<a href='obj-det project report.pdf'>Project Report</a>
