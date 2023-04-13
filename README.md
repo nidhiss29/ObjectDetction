@@ -40,7 +40,7 @@ git clone git@github.com:nidhiss29/ObjectDetction.git
 
 -Upload Dataset and files on colab session
 
--Files to be uploaded  - all .py files and pbtxt files along with dataset 
+-Files to be uploaded  - all .py files, pipeline.config file and pbtxt files along with dataset 
 
 
 <h2>References:</h2>
