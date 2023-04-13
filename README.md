@@ -4,7 +4,7 @@
 [![Python 3.10.6](https://img.shields.io/badge/Python-3.10.6-3776AB)](https://www.python.org/downloads/release/python-360/)
 
 This Project is used to train custom object detection using Tesorflow api
-Creating accurate machine learning models capable of localizing and identifying
+(Supervised Learning )Creating accurate machine learning models capable of localizing and identifying
 multiple objects in a single image remains a core challenge in computer vision.
 The TensorFlow Object Detection API is an open source framework built on top of
 TensorFlow that makes it easy to construct, train and deploy object detection
@@ -26,6 +26,18 @@ But a model of own choice can be used from model zoo
 https://colab.research.google.com/drive/1bBMWKeAUsNU3In-MrqhCvQBZDktJpRCM?usp=sharing <br>
 Drive Link with all the files and dataset used:
 https://drive.google.com/drive/folders/1ecJA16_up1alKoik0mSzQimf39yN_zBU?usp=sharing
+
+# Deployment
+- To clone copy the following command in your terminal and start development.
+
+```sh
+git clone git@github.com:nidhiss29/ObjectDetction.git
+```
+
+-Download Zip folder
+-Open Colab file 
+-Upload Dataset and files on colab session
+-Files to be uploaded  - all .py files and pbtxt files along with dataset 
 
 
 <h2>References:</h2>
