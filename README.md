@@ -35,8 +35,11 @@ git clone git@github.com:nidhiss29/ObjectDetction.git
 ```
 
 -Download Zip folder
+
 -Open Colab file 
+
 -Upload Dataset and files on colab session
+
 -Files to be uploaded  - all .py files and pbtxt files along with dataset 
 
 
